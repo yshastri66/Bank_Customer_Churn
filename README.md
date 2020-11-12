@@ -2,7 +2,7 @@
 
 ## Probelm statement
 The problem statement here is to predict whether a customer will leave the bank or retain in the bank based on the famous kaggle dataset which is <b>bank_customer_churn_dataset</b>.<br>
-I tried with <b>Artificial Neural Networks , Linear regression , K nearest neighbours algorithm and Random forest algorithm </b> for this dataset after visualizing the dataset and performing some of the feature engineering tasks. Out of the all above models <b>Random Forest </b>yields 86% accuracy. Since the dataset is imbalanced, we can consider this accuracy as best only. 
+I tried with <b>Artificial Neural Networks , Logistic regression , K nearest neighbours algorithm and Random forest algorithm </b> for this dataset after visualizing the dataset and performing some of the feature engineering tasks. Out of the all above models <b>Random Forest </b>yields 86% accuracy. Since the dataset is imbalanced, we can consider this accuracy as best only. 
 ### Dataset contains following columns :
 <ul>
   <li>CustomerId</li>
