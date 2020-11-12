@@ -9,7 +9,7 @@ I tried with <b>Artificial Neural Networks , Logistic regression , K nearest nei
   <li>Surname</li>
   <li>CreditScore</li>
   <li>Geography - country of customer</li>
-  <li>.Gender</li>
+  <li>Gender</li>
   <li>Age</li>
   <li>Tenure - Total number of years with bank</li>
   <li>Balance
